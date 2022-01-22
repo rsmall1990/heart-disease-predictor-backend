@@ -13,9 +13,9 @@ corresponding with a user's inputed data.
 
 ### PEOPLE
 
-The people model will be populated by user input. The user must input data that matches the ML predictor algorithm, which is posted by [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). Consequently the model must include the following attributes:
+The people model will be populated by user input. The user must input data that matches the ML predictor algorithm, which is posted by [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease). Consequently the model must include attributes in the below list in addition to user data:
 
-There are 13 attributes
+#### Attributes
 
 - age: age in years
 - sex: sex (1 = male; 0 = female)
