@@ -8,7 +8,7 @@ corresponding with a user's inputed data.
 - JavaScript/express/mongoose/morgan/cors
 - NodeJS
 - MongoDB
-- Heroku deployment
+- Heroku for live backend deployment
 
 ## Models
 
