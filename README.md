@@ -8,7 +8,8 @@ corresponding with a user's inputed data.
 - JavaScript/express/mongoose/morgan/cors
 - NodeJS
 - MongoDB
-- Heroku deployment...pending
+- Heroku deployment
+
 ## Models
 
 ### PEOPLE
