@@ -41,6 +41,7 @@ const PeopleSchema = new mongoose.Schema({
     slope: Number,
     ca: Number,
     thal: Number,
+    probability: Number,
   })
   
   const People = mongoose.model("People", PeopleSchema)
